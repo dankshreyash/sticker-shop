@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD166"/>
+      <stop offset="100%" style="stop-color:#FFC233"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <ellipse cx="200" cy="180" rx="65" ry="55" fill="#FFC233" stroke="#D4A017" stroke-width="3"/>
+  <ellipse cx="155" cy="115" rx="15" ry="40" fill="#FFC233" stroke="#D4A017" stroke-width="3" transform="rotate(-15 155 115)"/>
+  <ellipse cx="245" cy="115" rx="15" ry="40" fill="#FFC233" stroke="#D4A017" stroke-width="3" transform="rotate(15 245 115)"/>
+  <ellipse cx="155" cy="105" rx="10" ry="15" fill="#333"/>
+  <ellipse cx="245" cy="105" rx="10" ry="15" fill="#333"/>
+  <circle cx="150" cy="170" r="15" fill="#E74C3C"/>
+  <circle cx="250" cy="170" r="15" fill="#E74C3C"/>
+  <circle cx="185" cy="165" r="8" fill="#333"/>
+  <circle cx="215" cy="165" r="8" fill="#333"/>
+  <circle cx="187" cy="163" r="3" fill="#FFF"/>
+  <circle cx="217" cy="163" r="3" fill="#FFF"/>
+  <path d="M190 185 L200 195 L210 185" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+  <path d="M280 140 L310 170" stroke="#FFC233" stroke-width="6" stroke-linecap="round"/>
+  <path d="M310 170 L300 155 L315 165 L305 150 L320 158" fill="#FFC233" stroke="#D4A017" stroke-width="2"/>
+  <path d="M120 140 L90 170" stroke="#FFC233" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 170 L100 155 L85 165 L95 150 L80 158" fill="#FFC233" stroke="#D4A017" stroke-width="2"/>
+  <text x="200" y="340" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#333" text-anchor="middle" letter-spacing="4">PIKACHU</text>
+</svg>

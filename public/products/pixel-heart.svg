@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#111"/>
+  <g fill="#E63946">
+    <rect x="150" y="120" width="20" height="20"/>
+    <rect x="170" y="120" width="20" height="20"/>
+    <rect x="210" y="120" width="20" height="20"/>
+    <rect x="230" y="120" width="20" height="20"/>
+    <rect x="130" y="140" width="20" height="20"/>
+    <rect x="150" y="140" width="20" height="20"/>
+    <rect x="170" y="140" width="20" height="20"/>
+    <rect x="190" y="140" width="20" height="20"/>
+    <rect x="210" y="140" width="20" height="20"/>
+    <rect x="230" y="140" width="20" height="20"/>
+    <rect x="250" y="140" width="20" height="20"/>
+    <rect x="130" y="160" width="20" height="20"/>
+    <rect x="150" y="160" width="20" height="20"/>
+    <rect x="170" y="160" width="20" height="20"/>
+    <rect x="190" y="160" width="20" height="20"/>
+    <rect x="210" y="160" width="20" height="20"/>
+    <rect x="230" y="160" width="20" height="20"/>
+    <rect x="250" y="160" width="20" height="20"/>
+    <rect x="150" y="180" width="20" height="20"/>
+    <rect x="170" y="180" width="20" height="20"/>
+    <rect x="190" y="180" width="20" height="20"/>
+    <rect x="210" y="180" width="20" height="20"/>
+    <rect x="230" y="180" width="20" height="20"/>
+    <rect x="170" y="200" width="20" height="20"/>
+    <rect x="190" y="200" width="20" height="20"/>
+    <rect x="210" y="200" width="20" height="20"/>
+    <rect x="190" y="220" width="20" height="20"/>
+  </g>
+  <g fill="#FF6B6B">
+    <rect x="150" y="120" width="20" height="20"/>
+    <rect x="130" y="140" width="20" height="20"/>
+    <rect x="130" y="160" width="20" height="20"/>
+  </g>
+  <text x="200" y="320" font-family="'Courier New', monospace" font-size="48" font-weight="bold" fill="#E63946" text-anchor="middle" letter-spacing="6">8-BIT</text>
+</svg>

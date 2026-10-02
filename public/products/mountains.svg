@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2EC4B6"/>
+      <stop offset="100%" style="stop-color:#20A39E"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <polygon points="50,300 150,150 250,300" fill="#1A535C"/>
+  <polygon points="150,300 250,120 350,300" fill="#0B3D3E"/>
+  <polygon points="250,300 350,170 450,300" fill="#1A535C"/>
+  <polygon points="150,150 170,170 130,170" fill="#FFF" opacity="0.8"/>
+  <polygon points="250,120 270,145 230,145" fill="#FFF" opacity="0.8"/>
+  <polygon points="350,170 370,195 330,195" fill="#FFF" opacity="0.8"/>
+  <circle cx="320" cy="80" r="30" fill="#FFD166" opacity="0.9"/>
+  <circle cx="80" cy="90" r="20" fill="#FFF" opacity="0.3"/>
+  <circle cx="100" cy="85" r="18" fill="#FFF" opacity="0.3"/>
+  <circle cx="70" cy="88" r="15" fill="#FFF" opacity="0.3"/>
+  <text x="200" y="370" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFF" text-anchor="middle" letter-spacing="6">NATURE</text>
+</svg>

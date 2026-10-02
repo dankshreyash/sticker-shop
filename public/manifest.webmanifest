@@ -1,0 +1,16 @@
+{
+  "name": "StickerLab - Laptop Stickers",
+  "short_name": "StickerLab",
+  "description": "Shop unique laptop stickers online. Anime, gaming, aesthetic, and custom vinyl stickers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
